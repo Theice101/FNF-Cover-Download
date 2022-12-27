@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Sammy-Zanta.png">
+<SubTexture name="Sammy-Zanta alt down0000" x="2579" y="2375" width="852" height="574" frameX="-1061" frameY="-506" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta alt idle0000" x="1636" y="783" width="844" height="776" frameX="-1065" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta alt left0000" x="853" y="2375" width="863" height="750" frameX="-985" frameY="-330" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta alt right0000" x="0" y="816" width="854" height="783" frameX="-1056" frameY="-297" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta alt up0000" x="0" y="0" width="818" height="816" frameX="-1093" frameY="-264" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta down0000" x="3432" y="0" width="852" height="574" frameX="-1061" frameY="-506" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta idle0000" x="0" y="1599" width="844" height="776" frameX="-1065" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta left0000" x="1716" y="2375" width="863" height="750" frameX="-985" frameY="-330" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta right0000" x="1636" y="0" width="854" height="783" frameX="-1056" frameY="-297" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta up0000" x="818" y="0" width="818" height="816" frameX="-1093" frameY="-264" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta swap0000" x="0" y="1599" width="844" height="776" frameX="-1065" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta swap0001" x="2490" y="1552" width="853" height="771" frameX="-997" frameY="-309" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta swap0002" x="0" y="2375" width="853" height="771" frameX="-997" frameY="-309" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta swap0003" x="844" y="1599" width="942" height="776" frameX="-967" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta swap0004" x="2490" y="0" width="942" height="776" frameX="-967" frameY="-304" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Sammy-Zanta swap0005" x="2490" y="776" width="844" height="776" frameX="-1065" frameY="-304" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Joe-Zanta.png">
+<SubTexture name="Joe-Zanta idle0000" x="790" y="775" width="816" height="725" frameX="-161" frameY="-339" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe-Zanta up0000" x="0" y="0" width="816" height="775" frameX="-161" frameY="-305" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe-Zanta right0000" x="816" y="0" width="832" height="753" frameX="-206" frameY="-311" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe-Zanta left0000" x="1648" y="0" width="838" height="709" frameX="-101" frameY="-355" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe-Zanta alt idle0000" x="0" y="775" width="790" height="728" frameX="-376" frameY="-352" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Joe-Zanta down0000" x="0" y="1503" width="840" height="708" frameX="-158" frameY="-357" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>

@@ -1,0 +1,122 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "Joe-Zanta idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				31,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Joe-Zanta left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				-30
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Joe-Zanta down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-6,
+				30
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Joe-Zanta up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-20,
+				4
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Joe-Zanta right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				44
+			],
+			"anim": "yell",
+			"fps": 24,
+			"name": "edd yell",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				3,
+				0
+			],
+			"anim": "annoyed",
+			"fps": 24,
+			"name": "edd annoyed",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-50,
+				-10
+			],
+			"anim": "idiot",
+			"fps": 24,
+			"name": "edd idiot",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-50,
+				-10
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle-alt",
+			"indices": [],
+			"name": "Joe-Zanta alt idle"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/zanta/Joe-Zanta",
+	"position": [
+		-420,
+		-450
+	],
+	"healthicon": "edd",
+	"flip_x": true,
+	"healthbar_colors": [
+		60,
+		80,
+		255
+	],
+	"camera_position": [
+		230,
+		330
+	],
+	"sing_duration": 6.1,
+	"scale": 0.6
+}

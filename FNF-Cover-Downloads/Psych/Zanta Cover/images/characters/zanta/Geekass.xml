@@ -1,0 +1,5 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Geekass.png">
+<SubTexture name="Geekass idle0000" x="0" y="0" width="993" height="821" frameX="-12" frameY="-259" frameWidth="1920" frameHeight="1080" />
+<SubTexture name="Geekass idle0001" x="993" y="0" width="993" height="821" frameX="-12" frameY="-259" frameWidth="1920" frameHeight="1080" />
+</TextureAtlas>
